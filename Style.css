@@ -1,0 +1,12 @@
+body {
+  /* color: green; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+h1 {
+  color: rgb(112, 255, 129);
+  margin: 0 auto;
+}
