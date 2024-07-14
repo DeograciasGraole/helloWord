@@ -2,10 +2,10 @@
   "connector": {
     "name": "local",
     "options": {
-      "pattern": ["**", "!.git/**", "!node_modules/**"]
+      "pattern": ["**", "!.git/**", "!node_modules/**", "!*.md"]
     }
   },
-  "extends": ["development"],
+  "extends": ["web-recommended"],
   "formatters": ["stylish"],
   "hints": [
     "button-type",
