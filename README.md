@@ -52,7 +52,7 @@ For more information on the importance of a professional README for your reposit
 
 > Describe your project in 1 or 2 sentences.
 
-**HelloWorld** Project is about mastering the tools such: linters,Github, git command and best practices we have learned in day one Lesson..
+**HelloWorld** Project is about mastering the tools such: linters, Github, git commands and best practices we have learned in day one Lesson..
 
 ## 🛠 Built With <a name="built-with"></a>
 
